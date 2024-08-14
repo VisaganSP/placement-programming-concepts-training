@@ -57,6 +57,6 @@ public class Main {
 
 #### **📚 Suggested Reading**
 
-- [Java Multithreading: A Step-by-Step Guide for Concurrent Programming](https://aeontanvir.medium.com/java-multithreading-a-step-by-step-guide-for-concurrent-programming-3bf5dccbbfa)
+- [Java Multithreading: A Step-by-Step Guide for Concurrent Programming](https://aeontanvir.medium.com/java-multithreading-a-step-by-step-guide-for-concurrent-programming-3bf5dccbbfa1)
 
 ---

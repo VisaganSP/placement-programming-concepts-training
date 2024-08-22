@@ -4,7 +4,7 @@ Welcome to the fascinating world of Object-Oriented Programming (OOP)! Whether y
 
 ---
 
-## **📚 Table of Contents**
+## **Table of Contents**
 
 1. [What is object-oriented programming (OOP)?](#q1-what-is-object-oriented-programming-oop)
 2. [What is encapsulation?](#q2-what-is-encapsulation)
@@ -35,7 +35,7 @@ Welcome to the fascinating world of Object-Oriented Programming (OOP)! Whether y
 ### **Q1. What is object-oriented programming (OOP)?**
 
 _Object-Oriented Programming (OOP)_ is a programming paradigm that organizes code into objects, which are instances of classes. It focuses on encapsulating data and behavior together, promoting modularity and reusability.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 

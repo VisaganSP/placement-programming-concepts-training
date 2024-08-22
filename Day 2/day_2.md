@@ -1,5 +1,7 @@
 # **🌟 OOPS Concepts Interview Guide**
 
+#### Day 2 - 22-08-2024
+
 Welcome to the fascinating world of Object-Oriented Programming (OOP)! Whether you’re a seasoned developer or just stepping into the coding universe, understanding OOP concepts is crucial. In this guide, we’ll explore **25 important OOP interview questions** that unravel the core principles guiding the creation of robust and scalable software. Let’s deep dive into it! 🚀
 
 ---

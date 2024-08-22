@@ -43,14 +43,14 @@ _Object-Oriented Programming (OOP)_ is a programming paradigm that organizes cod
 
 _Encapsulation_ is the concept of bundling data (attributes) and methods (functions) that operate on that data into a single unit (class). It hides the internal details of an object and provides controlled access through methods.  
 ![Encapsulation](images/encapsulation.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q3. What is inheritance?**
 
 _Inheritance_ is a mechanism where a new class (subclass or derived class) inherits properties and behaviors from an existing class (superclass or base class). It promotes code reuse and supports hierarchical relationships.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -58,35 +58,35 @@ _Inheritance_ is a mechanism where a new class (subclass or derived class) inher
 
 _Polymorphism_ allows objects of different classes to be treated as instances of a common superclass. It enables methods to be invoked on objects without knowing their specific types, as long as they adhere to the common interface.  
 ![Polymorphism](images/polymorphism.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q5. What is a constructor?**
 
 A _constructor_ is a special method that is automatically called when an object is created. It initializes the object’s attributes and prepares the object for use. Constructors often have the same name as the class.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q6. What is method overloading?**
 
 _Method overloading_ is a feature that allows a class to have more than one method with the same name, as long as their parameter lists are different. The methods are differentiated by the number and types of parameters.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q7. What is method overriding?**
 
 _Method overriding_ occurs when a subclass provides a specific implementation for a method that is already defined in its superclass. The overridden method has the same name, return type, and parameters as the superclass method.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q8. What is an abstract class?**
 
 An _abstract class_ is a class that cannot be instantiated and may contain abstract methods (methods without a body). Subclasses of the abstract class must provide implementations for its abstract methods.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -94,21 +94,21 @@ An _abstract class_ is a class that cannot be instantiated and may contain abstr
 
 An _interface_ is a contract that specifies methods that a class must implement. It allows multiple classes to adhere to the same interface and promotes loose coupling between components.  
 ![Interface](images/interface.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q10. What is a static method?**
 
 A _static method_ belongs to the class itself rather than any object of the class. It can be called without creating an instance of the class and is commonly used for utility or helper methods.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q11. What is a final class?**
 
 A _final class_ is a class that cannot be subclassed. It is used to prevent inheritance and to ensure that the implementation of the class remains unchanged.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -116,49 +116,49 @@ A _final class_ is a class that cannot be subclassed. It is used to prevent inhe
 
 _Composition_ is a design principle where one class contains objects of other classes as part of its attributes. It is a "has-a" relationship and is used to build complex objects from simpler ones.  
 ![Composition](images/composition.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q13. What is the super keyword?**
 
 The _super_ keyword is used to refer to the superclass of the current object. It can be used to invoke the superclass’s methods or constructor from a subclass.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q14. What is method hiding?**
 
 _Method hiding_ occurs when a subclass defines a static method with the same name as a static method in its superclass. The subclass method hides the superclass method rather than overriding it.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q15. What is constructor chaining?**
 
 _Constructor chaining_ refers to calling one constructor from another within the same class or between a subclass and superclass. This technique is used to achieve code reuse in constructors.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q16. What is the diamond problem in multiple inheritance?**
 
 The _diamond problem_ arises in multiple inheritance scenarios when a class inherits from two classes that both inherit from a common superclass. This can lead to ambiguity in method resolution.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q17. What is a shallow copy and a deep copy?**
 
 A _shallow copy_ copies the references of the objects contained within the original object, while a _deep copy_ creates new instances of the contained objects. Deep copying ensures complete duplication, including nested objects.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q18. What is a virtual method?**
 
 A _virtual method_ is a method declared in a base class that can be overridden in derived classes. The implementation invoked is determined by the runtime type of the object, supporting polymorphism.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -166,14 +166,14 @@ A _virtual method_ is a method declared in a base class that can be overridden i
 
 _Java achieves multiple inheritance_ through the use of interfaces. A class can implement multiple interfaces, allowing it to inherit method signatures from various sources.  
 ![Multiple Inheritance](images/multiple_inheritance.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q20. What is the purpose of the final keyword in Java?**
 
 The _final keyword_ in Java is used to restrict the user. It can be applied to classes, methods, and variables. A final class cannot be subclassed, a final method cannot be overridden, and a final variable cannot be reassigned.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -181,35 +181,35 @@ The _final keyword_ in Java is used to restrict the user. It can be applied to c
 
 The _SOLID principles_ are a set of design principles aimed at making software designs more understandable, flexible, and maintainable. They include Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.  
 ![SOLID Principles](images/solid.jpg)
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q22. What is the difference between an abstract class and an interface?**
 
 An _abstract class_ can have both abstract and concrete methods, while an _interface_ can only have method declarations (until Java 8 where default methods were introduced). Abstract classes can have instance variables, but interfaces cannot.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q23. How is encapsulation related to data hiding?**
 
 _Encapsulation_ facilitates _data hiding_ by restricting direct access to an object's data and exposing it through controlled methods, ensuring the integrity and security of the object's state.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q24. What is the difference between composition and inheritance?**
 
 _Composition_ is a "has-a" relationship where one class contains objects of another, while _inheritance_ is an "is-a" relationship where one class extends another. Composition provides more flexibility and reduces coupling.  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
 ### **Q25. What is the role of a destructor in C++?**
 
 A _destructor_ is a special method that is automatically invoked when an object is destroyed. It is used to clean up resources like memory, file handles, or database connections. In C++, the destructor has the same name as the class, prefixed by a tilde (~).  
-[🔝 Back to Top](#📚-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 

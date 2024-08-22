@@ -249,3 +249,15 @@ Develop a vehicle fleet management system for a logistics company. The company m
 - Use the **Strategy Pattern** to assign different delivery behaviors based on the type of goods.
 
 ---
+
+### **Design Patterns References** 📚✨
+
+For a deeper dive into the design patterns used in the OOP concepts challenges, check out these valuable resources:
+
+1. **Factory Design Pattern** 🏭  
+   [Abstract Factory Design Pattern](https://refactoring.guru/design-patterns/abstract-factory) - Discover the Abstract Factory pattern, which provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+2. **Strategy Pattern** 🧩  
+   [Strategy Design Pattern](https://refactoring.guru/design-patterns/strategy) - Learn about the Strategy pattern, which defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+
+---
